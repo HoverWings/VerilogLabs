@@ -1,0 +1,10 @@
+/lab*/*.cache/
+/lab*/*.hw/
+/lab*/*.sim/
+/lab*/*.ip_user_files/
+/lab*/*.runs/
+*.zip
+*.~*
+*.png
+/VerilogFiles/
+/document/lab02_combine_logic_v1
